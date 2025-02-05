@@ -1,16 +1,18 @@
-## Hi there 👋
+# H1
+## H2
+### H3
 
-<!--
-**stabilefrisur/stabilefrisur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
 
-Here are some ideas to get you started:
+Here's a sentence with a footnote. [^1]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[^1]: This is the footnote.
+
+~~The world is flat.~~
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media
